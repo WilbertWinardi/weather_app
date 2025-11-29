@@ -51,7 +51,11 @@ The primary goal of this project is to build a classification model capable of p
 
 ---
 
-## ▶️ Deployed Streamlit Link -> weather-classification-ml.streamlit.app
+## ▶️ Deployed Streamlit Link
+
+([weather-classification-ml.streamlit.app](https://weather-classification-ml.streamlit.app/))
+
+---
 
 ## 🚀 Setup and Installation
 
